@@ -8,9 +8,9 @@
 
 ```bash
 # Create virtual envirenment
-$ python3 -m venv dcas
+$ python3 -m venv dqas
 # Activate virtual envirenment
-$ source dcas/bin/activate
+$ source dqas/bin/activate
 # Install dependencies
 $ pip install -r requirements.txt
 ```

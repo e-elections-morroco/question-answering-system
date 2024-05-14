@@ -4,3 +4,9 @@ PyPDF2
 pypdf
 vertexai 
 langchain_google_genai
+
+# envirements
+python-dotenv
+
+# Memory database
+chromadb
