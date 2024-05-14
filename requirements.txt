@@ -1,0 +1,6 @@
+# LangChain and LLM
+langchain
+PyPDF2
+pypdf
+vertexai 
+langchain_google_genai
